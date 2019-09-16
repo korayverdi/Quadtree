@@ -1,0 +1,18 @@
+C:\Users\kryvr\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\kryvr\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\kryvr\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\kryvr\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\kryvr\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\kryvr\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\kryvr\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\kryvr\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\kryvr\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\KORAY\MASAÜSTÜ\LAB\ProLab\Prolab 2_2\quadtree\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\KORAY\MASAÜSTÜ\LAB\ProLab\Prolab 2_2\quadtree\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\KORAY\MASAÜSTÜ\LAB\ProLab\Prolab 2_2\quadtree\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\KORAY\MASAÜSTÜ\LAB\ProLab\Prolab 2_2\quadtree\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\KORAY\MASAÜSTÜ\LAB\ProLab\Prolab 2_2\quadtree\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\KORAY\MASAÜSTÜ\LAB\ProLab\Prolab 2_2\quadtree\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\KORAY\MASAÜSTÜ\LAB\ProLab\Prolab 2_2\quadtree\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\KORAY\MASAÜSTÜ\LAB\ProLab\Prolab 2_2\quadtree\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\KORAY\MASAÜSTÜ\LAB\ProLab\Prolab 2_2\quadtree\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
